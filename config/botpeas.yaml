@@ -1,29 +1,22 @@
 ALL_VALID: no
 
 DESCRIPTION_KEYWORDS_I:
-- privilege escalation
-- escalation
-- privesc
-- high integrity
-- elevated privilege
-- escalation of privilege
-- " sudo "
-- " suid "
-- " pe "
-- " UAC "
-- User Account Control
-- linpeas
-- winpeas
+- " xss "
+- " ssrf "
+- " injection "
+- " command "
+- " lfi "
+- " include "
+- " server side "
 - docker
 - kubernetes
 - " lxc "
-- podman
+- web
 
 DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
-- sudo
 - docker
 - kubernetes
 - lxc
