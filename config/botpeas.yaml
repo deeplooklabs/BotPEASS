@@ -23,6 +23,9 @@ PRODUCT_KEYWORDS_I:
 - lxc
 - podman
 - container
+- wordpress
+- atlassian
+- adobe
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
